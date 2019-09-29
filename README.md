@@ -1,6 +1,7 @@
 # GOgradient
 Code for the paper "GO GRADIENT FOR EXPECTATION-BASED OBJECTIVES"
 ## Citation
+Please consider citing our papers if you refer to this code in your research.
 ```
 @inproceedings{
   cong2018go,
